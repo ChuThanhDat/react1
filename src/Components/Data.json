@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "name":"Chu Thành Đạt",
+        "tel":"123456789",
+        "permission":1
+    } ,
+
+    {
+        "id":2,
+        "name":"Nguyễn Tất Thắng",
+        "tel":"123478449",
+        "permission":2
+    } ,
+
+    {
+        "id":3,
+        "name":"Hoàng Anh Quân",
+        "tel":"12323239",
+        "permission":3
+    } ,
+
+    {
+        "id":4,
+        "name":"Kiều Hoàng Nghiệp",
+        "tel":"123554542",
+        "permission":2
+    } ,
+
+    {
+        "id":5,
+        "name":"Phạm Thị Phương",
+        "tel":"423423467",
+        "permission":3
+    } 
+]
